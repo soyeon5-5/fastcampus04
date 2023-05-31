@@ -10,7 +10,7 @@ spec:
   project: default
   source:
     path: bubblepool
-    repoURL: git@github.com:<Github Profile명>/service-repository.git
+    repoURL: git@github.com:soyeon5-5/fastcampus04.git//service-repository
     targetRevision: HEAD
   syncPolicy:
     automated:

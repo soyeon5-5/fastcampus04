@@ -1,2 +1,2 @@
 resources:
-  - https://github.com/soyeon5-5/fastcampus04/tree/109ed9f08cfac3581fd8fa55be7da9be1b21efd1/management-repository/argo-rollout?ref=main
+  - https://github.com/soyeon5-5/fastcampus04.git//management-repository/argo-rollout?ref=main

@@ -1,3 +1,3 @@
 module "terraform-codes" {
-  source = "https://github.com/soyeon5-5/fastcampus04/tree/109ed9f08cfac3581fd8fa55be7da9be1b21efd1/gitops-repository/platform/aws/ap-northeast-2/terraform-codes?ref=main"
+  source = "git@github.com:soyeon5-5/fastcampus04.git//platform-repository/aws/ap-northeast-2/terraform-codes?ref=main"
 }
